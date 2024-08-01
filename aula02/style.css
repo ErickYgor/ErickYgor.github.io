@@ -1,0 +1,24 @@
+.container {
+  width: 23vw;
+  height: 70vh;
+  background-color: rgb(151, 150, 149);
+  margin-left: 39.5vw;
+  margin-top: 15vh;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#alvo {
+  border: 1px solid navy;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  background-color: red;
+  border-radius: 20px;
+  left: 0;
+  top: 0;
+  z-index: 2;
+}
